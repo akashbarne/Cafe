@@ -1,0 +1,9 @@
+1) install java 1.8
+2) install intellij
+3) install mysql(username-"root",pass"Admin")
+4) create database NorthStar_project
+5) run python project first (will auto create some tables)
+6) create user_details table and login_details table
+7) add data to cart table,user and login table
+8) add mysql(sql query plugin) plugin in intellij
+9) run project in cafe_application file

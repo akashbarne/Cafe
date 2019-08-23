@@ -1,0 +1,5 @@
+1) install VS code
+2) install nodeJS
+3) cd to GUI_MENU folder 
+5) npm install
+6) npm start

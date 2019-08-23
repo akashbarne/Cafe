@@ -1,0 +1,101 @@
+.title{
+    font-size: 18pt;
+    color: blueviolet;
+    float: left;
+    text-align: start;
+    color: orangered;
+    padding-left: 80px;
+    margin: 3px;
+}
+.item{
+    margin: 10px;
+    font-size: 20pt;
+    color: crimson;
+}
+.body{
+    font-size: 16pt;
+    color: black;
+}
+.header{
+    color: green;
+}
+th, td, tr{
+    padding: 5px;
+    color: black;
+}
+
+#from_date, #to_date{
+    float: left;
+    text-align: start;
+    color: orangered;
+    padding-left: 80px;
+    margin: 3px;
+}
+.btn1{
+    background-color: orangered;
+}
+#title1{
+    background-color: orangered;
+    height: 4px;
+}
+.styling{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#to{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+}
+#row-head{
+    background-color: #4798;
+}
+tr{
+    text-align: center;
+}
+h1{
+    color: #fa7128;
+    padding-left : 50px;
+    padding-bottom: 0px;
+}
+#abc{
+    text-align: start;
+    background-color: #fa7128;
+    height: 5px;
+}
+
+.getD{
+    background-color: #fa7128;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.getM{
+    background-color: #fa7128;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    position: absolute;
+    top: 35%;
+    left: 100%;
+    width:20%;
+}
+
+.tabular{
+    padding: 20px;
+}
+
+.adminHome{
+    background-color: #fa7128;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    position: absolute;
+    top: 5%;
+    left: 100%;
+    width:20%;
+}
